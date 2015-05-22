@@ -1,4 +1,3 @@
-
 ---
 title: "README of the Getting and Cleaning Data course project"
 author: "Anna Levit"
@@ -28,7 +27,3 @@ run_analysis.R does the following.
 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 The two tidy data sets are written into files UCI_HAR_tidy_data.txt and UCI_HAR_tidy_data_2.txt respectively into your working folder. The detailed description of the transformations made and the resulting data sets can be found in the CodeBook.md file in the same repo.
-=======
-# Getting-and-Cleaning-Data
-for course project
->>>>>>> 863e781a6acb70e1a39dee7f29739ad6821ea1e7
