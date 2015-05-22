@@ -2,7 +2,6 @@
 title: "Code Book of the Getting and Cleaning Data course project"
 author: "Anna Levit"
 date: "Thursday, May 21, 2015"
-output: word_document
 ---
 
 ## Sourse of the original data and description:
@@ -42,7 +41,7 @@ file features.txt. The result is a 10299x79 data frame, since there are 79 measu
         
         WALKING_UPSTAIRS
         
-      * the rest of the coulumns are measurements taking values within [-1,1].  
+     * the rest of the coulumns are measurements taking values within [-1,1].  
 
 * Labels the measurements coulumns in the data set with descriptive variable names. In particular, transforms all the variables names into lowcase, removes any brackets and "-" in the names. The measurements variable names are of the following type:
     

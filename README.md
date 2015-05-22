@@ -1,9 +1,8 @@
-<<<<<<< HEAD
+
 ---
 title: "README of the Getting and Cleaning Data course project"
 author: "Anna Levit"
 date: "Friday, May 22, 2015"
-output: word_document
 ---
 
 
